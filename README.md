@@ -2,5 +2,6 @@
 first Java project!
 
 ## How to use
-make
-./gradlew run
+In a terminal:
+- make
+- ./gradlew run
